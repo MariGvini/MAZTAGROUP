@@ -73,6 +73,20 @@ margin-bottom: 30px;
 font-weight: bold;
 }
 
+.banner {
+background: #111;
+color: #fff;
+text-align: center;
+padding: 10px 20px;
+font-size: 14px;
+letter-spacing: 1px;
+}
+
+.since {
+margin-top: 10px;
+font-size: 14px;
+opacity: 0.85;
+}
 
 .intro-text {
 max-width: 700px;
